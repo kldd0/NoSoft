@@ -16,4 +16,4 @@ You can configure server settings in **settings.json**:
 ## Usage
 Just elevate permissions of the **start_server.sh** script and run it:  
 
-```chmod +x start_server.sh & ./start_server.sh ```
+```chmod +x start_server.sh && ./start_server.sh ```

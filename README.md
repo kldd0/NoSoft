@@ -1,5 +1,5 @@
 # NoSoft
-NoSoft is a simple local messenger that works on the principle of separate chat rooms.
+NoSoft is a simple CLI messenger that works on the principle of separate chat rooms.
 
 ## Brief decription
 + Each client must be logged in before starting the chat. All credentials are stored in **database.db**.

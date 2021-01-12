@@ -1,0 +1,5 @@
+sockets
+pyfiglet
+threaded
+hashlib
+sqlite3
